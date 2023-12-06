@@ -9,7 +9,7 @@ link to the uploaded file. The email service is carried out using Nodemailer.
   3. **/videoUpload** :-This routes uploads your desired video to Cloudinary.
   4. **/imageReducer** :- This route is for uploading your image in lesser size by decreasing the quality of the image.
 
-## Setup of .evn <br>
+## Setup of .env <br>
  The variables used in dotenv for the configuration are,<br>
  ```URL``` :- The database connection string to make connection.<br>
  ```PORT``` :- The port number in which your server is listening.<br>
